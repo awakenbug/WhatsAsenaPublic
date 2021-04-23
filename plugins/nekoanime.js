@@ -23,7 +23,7 @@ const axios = require('axios');
             })
 
             await message.sendMessage(Buffer.from(imageBuffer.data), MessageType.image, {
-                        caption: "*Made by 4LPH4_CR4CKZ*Public"
+                        caption: "xD"
             })
           })
       },
