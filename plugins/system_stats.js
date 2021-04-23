@@ -27,7 +27,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.ALIVEMSG == 'default') {
-            await message.client.sendMessage(message.jid,'```🐺 Hey People!! I am still alive & kicking 💥```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n*Developer:* TOXIC DEVIL\n*Re-Coded By:4LPH4_CR4CKZ\nUse .alpha To List Commands\n*TY For Using Me! xD*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'```🐺 Hey People!! I am still alive & kicking 💥```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n*Developer:* TOXIC DEVIL\n*Re-Coded By*:4LPH4_CR4CKZ\nUse .alpha To List Commands\n*TY For Using Me! xD*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by ☣️4LPH4_CR4CKZ☣️*', MessageType.text);
