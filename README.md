@@ -75,7 +75,7 @@ the user is responsible.
 
 ### Simple Method
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/awakenbug/wpbot)
 
 ### The Hard Method
 ``` js
